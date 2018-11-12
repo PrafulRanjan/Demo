@@ -13,14 +13,14 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void testUpload() {
-        int i = 10 + 10;
+        int i = 50 + 100;
 
-        int i2 = 20 + 20;
+        int i2 = 80 + 50;
 
         int i3 = i + i2;
 
 
-        String test = "hello";
+        String test = "branch02";
 
         System.out.println("i =" + i);
         System.out.println("i3 =" + i3);
