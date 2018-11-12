@@ -25,9 +25,11 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("i =" + i);
         System.out.println("i3 =" + i3);
 
-        if (i>100){
-            System.out.println("High");
+        if (i<500){
+            System.out.println("Less");
         }
+
+
 
     }
 }
