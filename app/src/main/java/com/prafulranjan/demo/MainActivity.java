@@ -12,9 +12,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    private void testUpload(){
-        int i = 1+1;
+    private void testUpload() {
+        int i = 10 + 10;
 
-        String test ="hello";
+        String test = "hello";
+
+        System.out.println("i =" + i);
     }
 }
